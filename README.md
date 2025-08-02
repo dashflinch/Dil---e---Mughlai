@@ -15,4 +15,4 @@ Fast Loading – Pure HTML and CSS, no external frameworks.
 HTML5 – For structure and semantic layout.
 CSS3 – For design, layout, and responsiveness.
 
-View at :- https://dashflinch.github.io/Dil---e---Mughlai/
+View at :- https://dashflinch.github.io/Dil---e---Mughlai
